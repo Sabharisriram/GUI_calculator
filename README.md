@@ -57,7 +57,9 @@ This is a **simple graphical user interface (GUI) calculator** built using Pytho
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+- `LICENSE`: Contains the MIT License details for the project.
+This project is licensed under the MIT License. See the `LICENSE` file for complete details.
+
 
 ## Acknowledgments
 
