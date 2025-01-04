@@ -55,10 +55,6 @@ This is a **simple graphical user interface (GUI) calculator** built using Pytho
 ![GUI Calculator 2025-01-04](https://github.com/user-attachments/assets/d6f0a5c6-1c73-44a5-88c1-ba13343dffdf)
 
 
-## Contributions
-
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
