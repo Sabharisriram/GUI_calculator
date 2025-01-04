@@ -52,7 +52,8 @@ This is a **simple graphical user interface (GUI) calculator** built using Pytho
 
 ## Example Screenshot
 
-![Calculator GUI Screenshot](D:\project\GUI_calculator\GUI Calculator 2025-01-04.png)
+![GUI Calculator 2025-01-04](https://github.com/user-attachments/assets/d6f0a5c6-1c73-44a5-88c1-ba13343dffdf)
+
 
 ## Contributions
 
